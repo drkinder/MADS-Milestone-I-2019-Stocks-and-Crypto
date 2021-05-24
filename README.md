@@ -3,6 +3,9 @@ Junkyeong Lee & Dylan Kinder
 SIADS 591 & 592 Milestone I Project  
 Submitted: May 24, 2021
 
+
+Available at: https://github.com/drkinder/MADS-Milestone-I-2020-Stocks-and-Crypto
+
 ## File Structure
 ### /data  
 The data directory contains 5 CSV files for our 5 selected CryptoCurrencies:  
